@@ -1,0 +1,1203 @@
+Logging to /home/mea/flow-pg/outputs/train_flow_forward/2026-06-16/17-30-09
+Staring experiment
+Test data: 500000
+Updated batch: 0
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 1: Mean loss 45.0608, Acc:  100.00%, Recall:  99.42%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 1        |
+|    f1           | 0.997    |
+|    mean_loss    | 45.1     |
+|    recall       | 0.994    |
+|    time_elapsed | 37.3     |
+------------------------------
+Updated batch: 1
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 2: Mean loss 40.3807, Acc:  100.00%, Recall:  98.74%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 2        |
+|    f1           | 0.994    |
+|    mean_loss    | 40.4     |
+|    recall       | 0.987    |
+|    time_elapsed | 76       |
+------------------------------
+Updated batch: 2
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 3: Mean loss 51.4893, Acc:  100.00%, Recall:  98.41%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 3        |
+|    f1           | 0.992    |
+|    mean_loss    | 51.5     |
+|    recall       | 0.984    |
+|    time_elapsed | 114      |
+------------------------------
+Updated batch: 3
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 4: Mean loss 45.9227, Acc:  100.00%, Recall:  99.25%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 4        |
+|    f1           | 0.996    |
+|    mean_loss    | 45.9     |
+|    recall       | 0.992    |
+|    time_elapsed | 154      |
+------------------------------
+Updated batch: 4
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 5: Mean loss 49.5985, Acc:  100.00%, Recall:  98.50%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 5        |
+|    f1           | 0.992    |
+|    mean_loss    | 49.6     |
+|    recall       | 0.985    |
+|    time_elapsed | 194      |
+------------------------------
+Updated batch: 5
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 6: Mean loss 46.3193, Acc:  100.00%, Recall:  98.75%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 6        |
+|    f1           | 0.994    |
+|    mean_loss    | 46.3     |
+|    recall       | 0.987    |
+|    time_elapsed | 235      |
+------------------------------
+Updated batch: 6
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 7: Mean loss 48.3338, Acc:  100.00%, Recall:  98.72%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 7        |
+|    f1           | 0.994    |
+|    mean_loss    | 48.3     |
+|    recall       | 0.987    |
+|    time_elapsed | 272      |
+------------------------------
+Updated batch: 7
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 8: Mean loss 45.3926, Acc:  100.00%, Recall:  99.00%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 8        |
+|    f1           | 0.995    |
+|    mean_loss    | 45.4     |
+|    recall       | 0.99     |
+|    time_elapsed | 312      |
+------------------------------
+Updated batch: 8
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 9: Mean loss 41.9654, Acc:  100.00%, Recall:  98.54%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 9        |
+|    f1           | 0.993    |
+|    mean_loss    | 42       |
+|    recall       | 0.985    |
+|    time_elapsed | 350      |
+------------------------------
+Updated batch: 9
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 10: Mean loss 45.5449, Acc:  100.00%, Recall:  99.04%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 10       |
+|    f1           | 0.995    |
+|    mean_loss    | 45.5     |
+|    recall       | 0.99     |
+|    time_elapsed | 389      |
+------------------------------
+Updated batch: 10
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 11: Mean loss 41.6387, Acc:  100.00%, Recall:  98.17%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 11       |
+|    f1           | 0.991    |
+|    mean_loss    | 41.6     |
+|    recall       | 0.982    |
+|    time_elapsed | 427      |
+------------------------------
+Updated batch: 11
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 12: Mean loss 37.6971, Acc:  100.00%, Recall:  99.41%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 12       |
+|    f1           | 0.997    |
+|    mean_loss    | 37.7     |
+|    recall       | 0.994    |
+|    time_elapsed | 465      |
+------------------------------
+Updated batch: 12
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 13: Mean loss 41.1283, Acc:  100.00%, Recall:  98.35%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 13       |
+|    f1           | 0.992    |
+|    mean_loss    | 41.1     |
+|    recall       | 0.984    |
+|    time_elapsed | 499      |
+------------------------------
+Updated batch: 13
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 14: Mean loss 35.3923, Acc:  100.00%, Recall:  99.02%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 14       |
+|    f1           | 0.995    |
+|    mean_loss    | 35.4     |
+|    recall       | 0.99     |
+|    time_elapsed | 537      |
+------------------------------
+Updated batch: 14
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 15: Mean loss 45.2818, Acc:  100.00%, Recall:  97.93%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 15       |
+|    f1           | 0.99     |
+|    mean_loss    | 45.3     |
+|    recall       | 0.979    |
+|    time_elapsed | 573      |
+------------------------------
+Updated batch: 15
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 16: Mean loss 37.7596, Acc:  100.00%, Recall:  99.36%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 16       |
+|    f1           | 0.997    |
+|    mean_loss    | 37.8     |
+|    recall       | 0.994    |
+|    time_elapsed | 612      |
+------------------------------
+Updated batch: 16
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 17: Mean loss 39.9008, Acc:  100.00%, Recall:  97.36%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 17       |
+|    f1           | 0.987    |
+|    mean_loss    | 39.9     |
+|    recall       | 0.974    |
+|    time_elapsed | 649      |
+------------------------------
+Updated batch: 17
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 18: Mean loss 38.6177, Acc:  100.00%, Recall:  98.75%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 18       |
+|    f1           | 0.994    |
+|    mean_loss    | 38.6     |
+|    recall       | 0.987    |
+|    time_elapsed | 688      |
+------------------------------
+Updated batch: 18
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 19: Mean loss 38.5027, Acc:  100.00%, Recall:  97.66%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 19       |
+|    f1           | 0.988    |
+|    mean_loss    | 38.5     |
+|    recall       | 0.977    |
+|    time_elapsed | 716      |
+------------------------------
+Updated batch: 19
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 20: Mean loss 37.3770, Acc:  100.00%, Recall:  98.42%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 20       |
+|    f1           | 0.992    |
+|    mean_loss    | 37.4     |
+|    recall       | 0.984    |
+|    time_elapsed | 752      |
+------------------------------
+Updated batch: 20
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 21: Mean loss 35.9399, Acc:  100.00%, Recall:  98.28%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 21       |
+|    f1           | 0.991    |
+|    mean_loss    | 35.9     |
+|    recall       | 0.983    |
+|    time_elapsed | 794      |
+------------------------------
+Updated batch: 21
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 22: Mean loss 31.9939, Acc:  100.00%, Recall:  98.57%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 22       |
+|    f1           | 0.993    |
+|    mean_loss    | 32       |
+|    recall       | 0.986    |
+|    time_elapsed | 836      |
+------------------------------
+Updated batch: 22
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 23: Mean loss 38.1364, Acc:  100.00%, Recall:  98.50%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 23       |
+|    f1           | 0.992    |
+|    mean_loss    | 38.1     |
+|    recall       | 0.985    |
+|    time_elapsed | 871      |
+------------------------------
+Updated batch: 23
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 24: Mean loss 40.5854, Acc:  100.00%, Recall:  98.61%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 24       |
+|    f1           | 0.993    |
+|    mean_loss    | 40.6     |
+|    recall       | 0.986    |
+|    time_elapsed | 907      |
+------------------------------
+Updated batch: 24
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 25: Mean loss 41.3397, Acc:  100.00%, Recall:  98.45%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 25       |
+|    f1           | 0.992    |
+|    mean_loss    | 41.3     |
+|    recall       | 0.985    |
+|    time_elapsed | 946      |
+------------------------------
+Updated batch: 25
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 26: Mean loss 36.8695, Acc:  100.00%, Recall:  98.67%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 26       |
+|    f1           | 0.993    |
+|    mean_loss    | 36.9     |
+|    recall       | 0.987    |
+|    time_elapsed | 987      |
+------------------------------
+Updated batch: 26
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 27: Mean loss 37.7340, Acc:  100.00%, Recall:  99.28%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 27       |
+|    f1           | 0.996    |
+|    mean_loss    | 37.7     |
+|    recall       | 0.993    |
+|    time_elapsed | 1.03e+03 |
+------------------------------
+Updated batch: 27
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 28: Mean loss 34.1611, Acc:  100.00%, Recall:  99.40%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 28       |
+|    f1           | 0.997    |
+|    mean_loss    | 34.2     |
+|    recall       | 0.994    |
+|    time_elapsed | 1.07e+03 |
+------------------------------
+Updated batch: 28
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 29: Mean loss 29.0424, Acc:  100.00%, Recall:  98.48%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 29       |
+|    f1           | 0.992    |
+|    mean_loss    | 29       |
+|    recall       | 0.985    |
+|    time_elapsed | 1.11e+03 |
+------------------------------
+Updated batch: 29
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 30: Mean loss 32.9656, Acc:  100.00%, Recall:  98.80%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 30       |
+|    f1           | 0.994    |
+|    mean_loss    | 33       |
+|    recall       | 0.988    |
+|    time_elapsed | 1.15e+03 |
+------------------------------
+Updated batch: 30
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 31: Mean loss 40.0752, Acc:  100.00%, Recall:  99.48%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 31       |
+|    f1           | 0.997    |
+|    mean_loss    | 40.1     |
+|    recall       | 0.995    |
+|    time_elapsed | 1.19e+03 |
+------------------------------
+Updated batch: 31
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 32: Mean loss 28.3780, Acc:  100.00%, Recall:  98.44%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 32       |
+|    f1           | 0.992    |
+|    mean_loss    | 28.4     |
+|    recall       | 0.984    |
+|    time_elapsed | 1.23e+03 |
+------------------------------
+Updated batch: 32
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 33: Mean loss 33.7583, Acc:  100.00%, Recall:  99.33%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 33       |
+|    f1           | 0.997    |
+|    mean_loss    | 33.8     |
+|    recall       | 0.993    |
+|    time_elapsed | 1.26e+03 |
+------------------------------
+Updated batch: 33
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 34: Mean loss 41.6197, Acc:  100.00%, Recall:  97.69%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 34       |
+|    f1           | 0.988    |
+|    mean_loss    | 41.6     |
+|    recall       | 0.977    |
+|    time_elapsed | 1.3e+03  |
+------------------------------
+Updated batch: 34
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 35: Mean loss 44.8335, Acc:  100.00%, Recall:  98.89%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 35       |
+|    f1           | 0.994    |
+|    mean_loss    | 44.8     |
+|    recall       | 0.989    |
+|    time_elapsed | 1.34e+03 |
+------------------------------
+Updated batch: 35
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 36: Mean loss 32.4698, Acc:  100.00%, Recall:  98.40%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 36       |
+|    f1           | 0.992    |
+|    mean_loss    | 32.5     |
+|    recall       | 0.984    |
+|    time_elapsed | 1.38e+03 |
+------------------------------
+Updated batch: 36
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 37: Mean loss 31.2674, Acc:  100.00%, Recall:  99.55%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 37       |
+|    f1           | 0.998    |
+|    mean_loss    | 31.3     |
+|    recall       | 0.995    |
+|    time_elapsed | 1.42e+03 |
+------------------------------
+Updated batch: 37
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 38: Mean loss 32.4588, Acc:  100.00%, Recall:  98.78%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 38       |
+|    f1           | 0.994    |
+|    mean_loss    | 32.5     |
+|    recall       | 0.988    |
+|    time_elapsed | 1.46e+03 |
+------------------------------
+Updated batch: 38
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 39: Mean loss 32.1660, Acc:  100.00%, Recall:  99.65%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 39       |
+|    f1           | 0.998    |
+|    mean_loss    | 32.2     |
+|    recall       | 0.996    |
+|    time_elapsed | 1.5e+03  |
+------------------------------
+Updated batch: 39
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 40: Mean loss 35.8866, Acc:  100.00%, Recall:  98.59%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 40       |
+|    f1           | 0.993    |
+|    mean_loss    | 35.9     |
+|    recall       | 0.986    |
+|    time_elapsed | 1.54e+03 |
+------------------------------
+Updated batch: 40
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 41: Mean loss 29.3860, Acc:  100.00%, Recall:  98.79%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 41       |
+|    f1           | 0.994    |
+|    mean_loss    | 29.4     |
+|    recall       | 0.988    |
+|    time_elapsed | 1.57e+03 |
+------------------------------
+Updated batch: 41
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 42: Mean loss 32.1284, Acc:  100.00%, Recall:  98.52%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 42       |
+|    f1           | 0.993    |
+|    mean_loss    | 32.1     |
+|    recall       | 0.985    |
+|    time_elapsed | 1.6e+03  |
+------------------------------
+Updated batch: 42
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 43: Mean loss 34.4863, Acc:  100.00%, Recall:  99.15%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 43       |
+|    f1           | 0.996    |
+|    mean_loss    | 34.5     |
+|    recall       | 0.992    |
+|    time_elapsed | 1.64e+03 |
+------------------------------
+Updated batch: 43
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 44: Mean loss 30.8514, Acc:  100.00%, Recall:  98.65%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 44       |
+|    f1           | 0.993    |
+|    mean_loss    | 30.9     |
+|    recall       | 0.986    |
+|    time_elapsed | 1.68e+03 |
+------------------------------
+Updated batch: 44
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 45: Mean loss 29.3017, Acc:  100.00%, Recall:  98.60%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 45       |
+|    f1           | 0.993    |
+|    mean_loss    | 29.3     |
+|    recall       | 0.986    |
+|    time_elapsed | 1.71e+03 |
+------------------------------
+Updated batch: 45
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 46: Mean loss 31.0884, Acc:  100.00%, Recall:  98.62%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 46       |
+|    f1           | 0.993    |
+|    mean_loss    | 31.1     |
+|    recall       | 0.986    |
+|    time_elapsed | 1.74e+03 |
+------------------------------
+Updated batch: 46
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 47: Mean loss 28.3141, Acc:  100.00%, Recall:  98.77%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 47       |
+|    f1           | 0.994    |
+|    mean_loss    | 28.3     |
+|    recall       | 0.988    |
+|    time_elapsed | 1.78e+03 |
+------------------------------
+Updated batch: 47
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 48: Mean loss 26.1510, Acc:  100.00%, Recall:  99.12%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 48       |
+|    f1           | 0.996    |
+|    mean_loss    | 26.2     |
+|    recall       | 0.991    |
+|    time_elapsed | 1.81e+03 |
+------------------------------
+Updated batch: 48
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 49: Mean loss 31.8966, Acc:  100.00%, Recall:  98.21%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 49       |
+|    f1           | 0.991    |
+|    mean_loss    | 31.9     |
+|    recall       | 0.982    |
+|    time_elapsed | 1.85e+03 |
+------------------------------
+Updated batch: 49
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 50: Mean loss 36.2072, Acc:  100.00%, Recall:  98.39%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 50       |
+|    f1           | 0.992    |
+|    mean_loss    | 36.2     |
+|    recall       | 0.984    |
+|    time_elapsed | 1.89e+03 |
+------------------------------
+Updated batch: 50
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 51: Mean loss 30.6291, Acc:  100.00%, Recall:  99.22%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 51       |
+|    f1           | 0.996    |
+|    mean_loss    | 30.6     |
+|    recall       | 0.992    |
+|    time_elapsed | 1.92e+03 |
+------------------------------
+Updated batch: 51
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 52: Mean loss 28.3730, Acc:  100.00%, Recall:  98.42%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 52       |
+|    f1           | 0.992    |
+|    mean_loss    | 28.4     |
+|    recall       | 0.984    |
+|    time_elapsed | 1.96e+03 |
+------------------------------
+Updated batch: 52
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 53: Mean loss 31.4751, Acc:  100.00%, Recall:  98.22%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 53       |
+|    f1           | 0.991    |
+|    mean_loss    | 31.5     |
+|    recall       | 0.982    |
+|    time_elapsed | 1.99e+03 |
+------------------------------
+Updated batch: 53
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 54: Mean loss 32.4465, Acc:  100.00%, Recall:  99.24%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 54       |
+|    f1           | 0.996    |
+|    mean_loss    | 32.4     |
+|    recall       | 0.992    |
+|    time_elapsed | 2.03e+03 |
+------------------------------
+Updated batch: 54
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 55: Mean loss 29.6257, Acc:  100.00%, Recall:  99.51%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 55       |
+|    f1           | 0.998    |
+|    mean_loss    | 29.6     |
+|    recall       | 0.995    |
+|    time_elapsed | 2.07e+03 |
+------------------------------
+Updated batch: 55
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 56: Mean loss 32.3071, Acc:  100.00%, Recall:  98.68%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 56       |
+|    f1           | 0.993    |
+|    mean_loss    | 32.3     |
+|    recall       | 0.987    |
+|    time_elapsed | 2.11e+03 |
+------------------------------
+Updated batch: 56
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 57: Mean loss 35.3519, Acc:  100.00%, Recall:  99.34%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 57       |
+|    f1           | 0.997    |
+|    mean_loss    | 35.4     |
+|    recall       | 0.993    |
+|    time_elapsed | 2.13e+03 |
+------------------------------
+Updated batch: 57
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 58: Mean loss 31.7360, Acc:  100.00%, Recall:  99.58%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 58       |
+|    f1           | 0.998    |
+|    mean_loss    | 31.7     |
+|    recall       | 0.996    |
+|    time_elapsed | 2.15e+03 |
+------------------------------
+Updated batch: 58
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 59: Mean loss 29.1793, Acc:  100.00%, Recall:  99.24%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 59       |
+|    f1           | 0.996    |
+|    mean_loss    | 29.2     |
+|    recall       | 0.992    |
+|    time_elapsed | 2.16e+03 |
+------------------------------
+Updated batch: 59
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 60: Mean loss 28.6778, Acc:  100.00%, Recall:  99.53%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 60       |
+|    f1           | 0.998    |
+|    mean_loss    | 28.7     |
+|    recall       | 0.995    |
+|    time_elapsed | 2.18e+03 |
+------------------------------
+Updated batch: 60
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 61: Mean loss 33.2060, Acc:  100.00%, Recall:  98.84%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 61       |
+|    f1           | 0.994    |
+|    mean_loss    | 33.2     |
+|    recall       | 0.988    |
+|    time_elapsed | 2.2e+03  |
+------------------------------
+Updated batch: 61
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 62: Mean loss 28.4247, Acc:  100.00%, Recall:  98.15%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 62       |
+|    f1           | 0.991    |
+|    mean_loss    | 28.4     |
+|    recall       | 0.982    |
+|    time_elapsed | 2.21e+03 |
+------------------------------
+Updated batch: 62
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 63: Mean loss 26.8405, Acc:  100.00%, Recall:  97.44%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 63       |
+|    f1           | 0.987    |
+|    mean_loss    | 26.8     |
+|    recall       | 0.974    |
+|    time_elapsed | 2.23e+03 |
+------------------------------
+Updated batch: 63
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 64: Mean loss 33.7559, Acc:  100.00%, Recall:  99.53%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 64       |
+|    f1           | 0.998    |
+|    mean_loss    | 33.8     |
+|    recall       | 0.995    |
+|    time_elapsed | 2.24e+03 |
+------------------------------
+Updated batch: 64
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 65: Mean loss 33.3199, Acc:  100.00%, Recall:  98.68%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 65       |
+|    f1           | 0.993    |
+|    mean_loss    | 33.3     |
+|    recall       | 0.987    |
+|    time_elapsed | 2.26e+03 |
+------------------------------
+Updated batch: 65
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 66: Mean loss 29.3701, Acc:  100.00%, Recall:  98.94%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 66       |
+|    f1           | 0.995    |
+|    mean_loss    | 29.4     |
+|    recall       | 0.989    |
+|    time_elapsed | 2.28e+03 |
+------------------------------
+Updated batch: 66
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 67: Mean loss 26.7667, Acc:  100.00%, Recall:  98.68%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 67       |
+|    f1           | 0.993    |
+|    mean_loss    | 26.8     |
+|    recall       | 0.987    |
+|    time_elapsed | 2.29e+03 |
+------------------------------
+Updated batch: 67
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 68: Mean loss 31.4767, Acc:  100.00%, Recall:  98.45%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 68       |
+|    f1           | 0.992    |
+|    mean_loss    | 31.5     |
+|    recall       | 0.985    |
+|    time_elapsed | 2.31e+03 |
+------------------------------
+Updated batch: 68
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 69: Mean loss 31.4725, Acc:  100.00%, Recall:  99.48%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 69       |
+|    f1           | 0.997    |
+|    mean_loss    | 31.5     |
+|    recall       | 0.995    |
+|    time_elapsed | 2.33e+03 |
+------------------------------
+Updated batch: 69
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 70: Mean loss 28.4393, Acc:  100.00%, Recall:  98.07%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 70       |
+|    f1           | 0.99     |
+|    mean_loss    | 28.4     |
+|    recall       | 0.981    |
+|    time_elapsed | 2.34e+03 |
+------------------------------
+Updated batch: 70
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 71: Mean loss 26.5044, Acc:  100.00%, Recall:  98.92%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 71       |
+|    f1           | 0.995    |
+|    mean_loss    | 26.5     |
+|    recall       | 0.989    |
+|    time_elapsed | 2.36e+03 |
+------------------------------
+Updated batch: 71
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 72: Mean loss 28.6283, Acc:  100.00%, Recall:  98.49%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 72       |
+|    f1           | 0.992    |
+|    mean_loss    | 28.6     |
+|    recall       | 0.985    |
+|    time_elapsed | 2.38e+03 |
+------------------------------
+Updated batch: 72
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 73: Mean loss 29.9138, Acc:  100.00%, Recall:  99.49%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 73       |
+|    f1           | 0.997    |
+|    mean_loss    | 29.9     |
+|    recall       | 0.995    |
+|    time_elapsed | 2.4e+03  |
+------------------------------
+Updated batch: 73
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 74: Mean loss 29.9945, Acc:  100.00%, Recall:  99.03%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 74       |
+|    f1           | 0.995    |
+|    mean_loss    | 30       |
+|    recall       | 0.99     |
+|    time_elapsed | 2.42e+03 |
+------------------------------
+Updated batch: 74
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 75: Mean loss 28.7085, Acc:  100.00%, Recall:  99.18%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 75       |
+|    f1           | 0.996    |
+|    mean_loss    | 28.7     |
+|    recall       | 0.992    |
+|    time_elapsed | 2.43e+03 |
+------------------------------
+Updated batch: 75
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 76: Mean loss 28.0231, Acc:  100.00%, Recall:  99.04%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 76       |
+|    f1           | 0.995    |
+|    mean_loss    | 28       |
+|    recall       | 0.99     |
+|    time_elapsed | 2.45e+03 |
+------------------------------
+Updated batch: 76
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 77: Mean loss 24.6930, Acc:  100.00%, Recall:  99.26%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 77       |
+|    f1           | 0.996    |
+|    mean_loss    | 24.7     |
+|    recall       | 0.993    |
+|    time_elapsed | 2.47e+03 |
+------------------------------
+Updated batch: 77
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 78: Mean loss 33.4480, Acc:  100.00%, Recall:  99.15%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 78       |
+|    f1           | 0.996    |
+|    mean_loss    | 33.4     |
+|    recall       | 0.991    |
+|    time_elapsed | 2.48e+03 |
+------------------------------
+Updated batch: 78
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 79: Mean loss 26.6772, Acc:  100.00%, Recall:  98.68%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 79       |
+|    f1           | 0.993    |
+|    mean_loss    | 26.7     |
+|    recall       | 0.987    |
+|    time_elapsed | 2.5e+03  |
+------------------------------
+Updated batch: 79
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 80: Mean loss 29.6955, Acc:  100.00%, Recall:  98.34%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 80       |
+|    f1           | 0.992    |
+|    mean_loss    | 29.7     |
+|    recall       | 0.983    |
+|    time_elapsed | 2.52e+03 |
+------------------------------
+Updated batch: 80
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 81: Mean loss 30.1723, Acc:  100.00%, Recall:  99.65%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 81       |
+|    f1           | 0.998    |
+|    mean_loss    | 30.2     |
+|    recall       | 0.997    |
+|    time_elapsed | 2.53e+03 |
+------------------------------
+Updated batch: 81
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 82: Mean loss 28.5435, Acc:  100.00%, Recall:  99.27%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 82       |
+|    f1           | 0.996    |
+|    mean_loss    | 28.5     |
+|    recall       | 0.993    |
+|    time_elapsed | 2.55e+03 |
+------------------------------
+Updated batch: 82
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 83: Mean loss 25.1569, Acc:  100.00%, Recall:  99.20%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 83       |
+|    f1           | 0.996    |
+|    mean_loss    | 25.2     |
+|    recall       | 0.992    |
+|    time_elapsed | 2.56e+03 |
+------------------------------
+Updated batch: 83
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 84: Mean loss 27.2503, Acc:  100.00%, Recall:  99.73%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 84       |
+|    f1           | 0.999    |
+|    mean_loss    | 27.3     |
+|    recall       | 0.997    |
+|    time_elapsed | 2.58e+03 |
+------------------------------
+Updated batch: 84
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 85: Mean loss 26.0260, Acc:  100.00%, Recall:  99.88%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 85       |
+|    f1           | 0.999    |
+|    mean_loss    | 26       |
+|    recall       | 0.999    |
+|    time_elapsed | 2.6e+03  |
+------------------------------
+Updated batch: 85
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 86: Mean loss 29.5307, Acc:  100.00%, Recall:  99.11%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 86       |
+|    f1           | 0.996    |
+|    mean_loss    | 29.5     |
+|    recall       | 0.991    |
+|    time_elapsed | 2.62e+03 |
+------------------------------
+Updated batch: 86
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 87: Mean loss 30.7112, Acc:  100.00%, Recall:  98.22%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 87       |
+|    f1           | 0.991    |
+|    mean_loss    | 30.7     |
+|    recall       | 0.982    |
+|    time_elapsed | 2.64e+03 |
+------------------------------
+Updated batch: 87
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 88: Mean loss 26.2958, Acc:  100.00%, Recall:  98.76%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 88       |
+|    f1           | 0.994    |
+|    mean_loss    | 26.3     |
+|    recall       | 0.988    |
+|    time_elapsed | 2.66e+03 |
+------------------------------
+Updated batch: 88
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 89: Mean loss 23.3993, Acc:  100.00%, Recall:  98.66%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 89       |
+|    f1           | 0.993    |
+|    mean_loss    | 23.4     |
+|    recall       | 0.987    |
+|    time_elapsed | 2.68e+03 |
+------------------------------
+Updated batch: 89
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 90: Mean loss 30.0814, Acc:  100.00%, Recall:  99.42%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 90       |
+|    f1           | 0.997    |
+|    mean_loss    | 30.1     |
+|    recall       | 0.994    |
+|    time_elapsed | 2.69e+03 |
+------------------------------
+Updated batch: 90
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 91: Mean loss 28.4577, Acc:  100.00%, Recall:  98.78%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 91       |
+|    f1           | 0.994    |
+|    mean_loss    | 28.5     |
+|    recall       | 0.988    |
+|    time_elapsed | 2.71e+03 |
+------------------------------
+Updated batch: 91
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 92: Mean loss 23.7410, Acc:  100.00%, Recall:  97.65%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 92       |
+|    f1           | 0.988    |
+|    mean_loss    | 23.7     |
+|    recall       | 0.977    |
+|    time_elapsed | 2.73e+03 |
+------------------------------
+Updated batch: 92
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 93: Mean loss 29.9207, Acc:  100.00%, Recall:  98.64%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 93       |
+|    f1           | 0.993    |
+|    mean_loss    | 29.9     |
+|    recall       | 0.986    |
+|    time_elapsed | 2.75e+03 |
+------------------------------
+Updated batch: 93
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 94: Mean loss 23.3719, Acc:  100.00%, Recall:  98.70%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 94       |
+|    f1           | 0.993    |
+|    mean_loss    | 23.4     |
+|    recall       | 0.987    |
+|    time_elapsed | 2.76e+03 |
+------------------------------
+Updated batch: 94
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 95: Mean loss 27.3281, Acc:  100.00%, Recall:  98.98%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 95       |
+|    f1           | 0.995    |
+|    mean_loss    | 27.3     |
+|    recall       | 0.99     |
+|    time_elapsed | 2.78e+03 |
+------------------------------
+Updated batch: 95
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 96: Mean loss 27.5012, Acc:  100.00%, Recall:  99.52%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 96       |
+|    f1           | 0.998    |
+|    mean_loss    | 27.5     |
+|    recall       | 0.995    |
+|    time_elapsed | 2.8e+03  |
+------------------------------
+Updated batch: 96
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 97: Mean loss 26.1973, Acc:  100.00%, Recall:  98.47%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 97       |
+|    f1           | 0.992    |
+|    mean_loss    | 26.2     |
+|    recall       | 0.985    |
+|    time_elapsed | 2.82e+03 |
+------------------------------
+Updated batch: 97
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 98: Mean loss 26.6782, Acc:  100.00%, Recall:  99.60%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 98       |
+|    f1           | 0.998    |
+|    mean_loss    | 26.7     |
+|    recall       | 0.996    |
+|    time_elapsed | 2.83e+03 |
+------------------------------
+Updated batch: 98
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 99: Mean loss 22.5537, Acc:  100.00%, Recall:  99.21%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 99       |
+|    f1           | 0.996    |
+|    mean_loss    | 22.6     |
+|    recall       | 0.992    |
+|    time_elapsed | 2.86e+03 |
+------------------------------
+Updated batch: 99
+torch.Size([500000, 2]), torch.Size([500000, 2])
+Epoch: 100: Mean loss 25.3921, Acc:  100.00%, Recall:  99.30%
+------------------------------
+| train/          |          |
+|    accuracy     | 1        |
+|    epoch        | 100      |
+|    f1           | 0.996    |
+|    mean_loss    | 25.4     |
+|    recall       | 0.993    |
+|    time_elapsed | 2.9e+03  |
+------------------------------

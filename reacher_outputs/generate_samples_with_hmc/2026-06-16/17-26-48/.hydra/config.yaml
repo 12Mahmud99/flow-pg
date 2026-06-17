@@ -1,0 +1,18 @@
+task:
+  action_constraint:
+    _target_: core.constraints.SphereConstraint
+    var_count: 2
+    ub: 0.05
+  id: reacher
+  state_bounds: null
+  state_indexes: null
+  var_count: 2
+  action_low: -1.0
+  action_high: 1.0
+  agent:
+    gamma: 0.98
+  total_timesteps: 300000
+  env:
+    id: Reacher-v2
+count: 10000
+plot: false
