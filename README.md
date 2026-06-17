@@ -12,7 +12,7 @@ Source Code for "FlowPG: Action-constrained Policy Gradient with Normalizing Flo
 ## Generating samples
 ### HMC
 ```
-python -m experiments.generate_samples_with_hmc --problems All --count 1000000 --log_dir logs/sample_generation/hmc
+python -m experiments.generate_samples_with_hmc     task=reacher     count=10000
 ```
 Results wtill be saved in `logs/samples_generation/hmc*`. 
 
