@@ -47,7 +47,7 @@ def main(cfg: Cfg):
     print(model)
     model.set_logger(value_logger)
     model.learn(total_timesteps=cfg.task.total_timesteps)
-
+    model.save("model")  
 
 if __name__ == "__main__":
     main()
