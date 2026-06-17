@@ -2,19 +2,15 @@ import gym
 from gym.wrappers import RecordVideo
 from stable_baselines3 import DDPG
 
-# Load the trained model
 model = DDPG.load("./model.zip")
-
-# Wrap the environment to record video
-env = gym.make("Reacher-v2", render_mode="rgb_array")
-env = RecordVideo(env, "videos/", episode_trigger=lambda x: True)  # records every episode
+env = gym.make("Reacher-v2")
+env = RecordVideo(env, "videos/", episode_trigger=lambda x: True)  # record every episode
 
 obs, _ = env.reset()
-for _ in range(500):  # run for 500 steps (or until done)
+for _ in range(200):  # this will run ~4 episodes (200 steps)
     action, _ = model.predict(obs, deterministic=True)
     obs, reward, terminated, truncated, _ = env.step(action)
     if terminated or truncated:
         obs, _ = env.reset()
-
 env.close()
-print("Video saved in videos/ folder")
+print("Video(s) saved in videos/ folder")
