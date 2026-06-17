@@ -22,7 +22,7 @@ class DDPGPro(ConstrainedAlgorithm, DDPG):
         return unscaled_action, _
 
     def _sample_action(self, learning_starts: int, action_noise: Union[ActionNoise, None] = None, n_envs: int = 1) -> Tuple[ndarray]:
-                # Select action randomly or according to policy
+        # Select action randomly or according to policy
         if self.num_timesteps < learning_starts and not (self.use_sde and self.use_sde_at_warmup):
             # Warmup phase
             unscaled_action = np.array([self.action_space.sample() for _ in range(n_envs)])
@@ -30,22 +30,21 @@ class DDPGPro(ConstrainedAlgorithm, DDPG):
             # Note: when using continuous actions,
             # we assume that the policy uses tanh to scale the action
             # We use non-deterministic action in the case of SAC, for TD3, it does not matter
-            # Important: Here send project false to avoid projecition
+            # Important: Here send project false to avoid projection
             unscaled_action, _ = self.predict(self._last_obs, deterministic=False, project=False) 
-        
 
         # Rescale the action from [low, high] to [-1, 1]
-        if isinstance(self.action_space, gym.spaces.Box):
+        if hasattr(self.action_space, 'low') and hasattr(self.action_space, 'high'):
             scaled_action = self.policy.scale_action(unscaled_action)
 
             # Add noise to the action (improve exploration)
             if action_noise is not None:
-                scaled_action = np.clip(scaled_action + action_noise(), -1, 1) # Add noise in the [-1, 1] space
+                scaled_action = np.clip(scaled_action + action_noise(), -1, 1)  # Add noise in the [-1, 1] space
 
             # We store the scaled action in the buffer
             unscaled_action = self.policy.unscale_action(scaled_action)
-            unscaled_action = self.project_if_infeasible(unscaled_action, self._last_obs, "rollout") # Project in the unscaled space
-            buffer_action = self.policy.scale_action(unscaled_action) # Scall back to get the buffer action. But usually most cases nothing happens in the scale as 
+            unscaled_action = self.project_if_infeasible(unscaled_action, self._last_obs, "rollout")  # Project in the unscaled space
+            buffer_action = self.policy.scale_action(unscaled_action)  # Scale back to get the buffer action (typo fixed)
         else:
             raise Exception("Discrete case not implemented")
 

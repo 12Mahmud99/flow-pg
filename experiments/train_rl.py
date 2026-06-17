@@ -29,7 +29,7 @@ def main(cfg: Cfg):
     OmegaConf.set_struct(cfg, False)
     print(cfg)
     constraint:BaseConstraint = instantiate(cfg.task.action_constraint, _convert_="all")
-    device = "cuda:1"
+    device = "cuda:0"
     constraint = constraint.to(device)
     env = gym.make(**cfg.task.env)
     extra_kwargs = {
