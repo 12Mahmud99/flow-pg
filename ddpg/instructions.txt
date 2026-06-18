@@ -1,2 +1,5 @@
 to train DDPG
 python -m experiments.train_rl task=reacher +seed=n
+
+#to plot the reward 
+python plot_average.py --dir ddpg --label "DDPGPro" --output ddpg_avg.png
