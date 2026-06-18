@@ -1,0 +1,2 @@
+to train DDPG
+python -m experiments.train_rl task=reacher +seed=n
